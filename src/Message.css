@@ -1,0 +1,14 @@
+.message{
+    margin: 15px;
+    width: fit-content;
+    background-color: rgb(250, 240, 240);
+    text-align: center;
+}
+
+.message__user{
+    margin-left: auto;
+    color: white;
+    text-align: right;
+    background-color: rgb(38, 85, 147);
+}
+
